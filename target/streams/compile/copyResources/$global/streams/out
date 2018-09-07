@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/suket/scala/lessons/twitter/src/main/resources/stop-words.dat,/home/suket/scala/lessons/twitter/target/scala-2.11/classes/stop-words.dat)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/suket/scala/lessons/twitter/src/main/resources/neg-words.dat,/home/suket/scala/lessons/twitter/target/scala-2.11/classes/neg-words.dat)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/suket/scala/lessons/twitter/src/main/resources/pos-words.dat,/home/suket/scala/lessons/twitter/target/scala-2.11/classes/pos-words.dat)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/suket/scala/lessons/twitter/src/main/resources/twitter4j.properties,/home/suket/scala/lessons/twitter/target/scala-2.11/classes/twitter4j.properties)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/suket/scala/lessons/twitter/src/main/resources/log4j.properties,/home/suket/scala/lessons/twitter/target/scala-2.11/classes/log4j.properties)[0m
